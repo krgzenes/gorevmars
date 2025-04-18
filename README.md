@@ -9,7 +9,7 @@
     <style>
       body {
         font-family: 'Roboto', sans-serif;
-        background: url('https://cdn.pixabay.com/photo/2013/07/18/20/26/space-164346_1280.jpg') no-repeat center center fixed;
+        background: url('https://cdn.spacetelescope.org/archives/images/screen/heic1509a.jpg') no-repeat center center fixed;
         background-size: cover;
       }
       .glass {
@@ -62,4 +62,3 @@
     </footer>
   </body>
 </html>
-
